@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/backend/stock-quotes-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frontend/stock-quotes-graph" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stock-quotes-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stock-quotes-graph/stock-quotes-graph" vcs="Git" />
+  </component>
+</project>

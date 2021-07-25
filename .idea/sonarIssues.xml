@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../hexagonal-architecture/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hexagonal-architecture/src/main/java/com/lambdasys/hexagonal/architecture/adapters/persistence/entity/GeoJSONPoint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hexagonal-architecture/src/main/java/com/lambdasys/hexagonal/architecture/adapters/persistence/entity/StoreEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hexagonal-architecture/src/main/java/com/lambdasys/hexagonal/architecture/adapters/web/presenter/StorePresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hexagonal-architecture/src/main/java/com/lambdasys/hexagonal/architecture/application/domain/Store.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hexagonal-architecture/src/main/java/com/lambdasys/hexagonal/architecture/mappers/StoreEntityMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hexagonal-architecture/src/main/java/com/lambdasys/hexagonal/architecture/mappers/StorePresenterMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hexagonal-architecture/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/backend/stock-quotes-api/src/main/java/com/lamdbasys/stockquotesapi/StockQuotesApiApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
